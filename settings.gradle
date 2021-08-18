@@ -1,4 +1,4 @@
-include ':BetterStatus'
+include ':QuickStar'
 rootProject.name = "plugins"
 
 include ':Aliucord'
